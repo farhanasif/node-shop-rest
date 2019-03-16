@@ -1,0 +1,22 @@
+{
+  "name": "rest-shop",
+  "version": "1.0.0",
+  "description": "a simple shop api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhanasif/node-shop-rest.git"
+  },
+  "author": "farhan asif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farhanasif/node-shop-rest/issues"
+  },
+  "homepage": "https://github.com/farhanasif/node-shop-rest#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
